@@ -5,8 +5,8 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name = "short_url"
-    gem.summary = %Q{TODO: one-line summary of your gem}
-    gem.description = %Q{TODO: longer description of your gem}
+    gem.summary = %Q{TODO: Enables long urls in the application}
+    gem.description = %Q{TODO: Enables long urls in application by storing parameters in the DB}
     gem.email = "mariuszwyrozebski@gmail.com"
     gem.homepage = "http://github.com/m4risU/short_url"
     gem.authors = ["Mariusz Wyrozębski"]
